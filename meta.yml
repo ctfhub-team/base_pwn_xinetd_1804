@@ -1,0 +1,7 @@
+name: base_pwn_xinetd_1804
+title: 基础镜像 PWN Xinetd
+desc: 基础镜像 PWN Xinetd
+tags:
+  - pwn
+  - xinetd
+  - ubuntu1804
