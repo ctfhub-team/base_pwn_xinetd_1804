@@ -1,7 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL Organization="CTFTraining" Author="Virink <virink@outlook.com>"
-MAINTAINER Virink@CTFTraining <virink@outlook.com>
+LABEL Organization="CTFHUB" Author="Virink <virink@outlook.com>"
 
 COPY _files /tmp
 RUN sed -i 's/archive.ubuntu.com/mirrors.tuna.tsinghua.edu.cn/' /etc/apt/sources.list && \
