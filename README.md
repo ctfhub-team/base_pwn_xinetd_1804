@@ -1,10 +1,14 @@
-# Base image with xinetd for pwn
+# 基础镜像 PWN Xinetd - Ubuntu 1804
 
 A docker image to hold pwn challenges in ctf war
 
 ## Usage
 
 Please check *.Dockerfile
+
+## Example
+
+[challenge_bctf_2018_pwn_begentle](https://github.com/ctfhub-team/challenge_bctf_2018_pwn_begentle)
 
 ## Env Vars
 
